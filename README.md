@@ -107,7 +107,4 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 ---
 
 ### Enjoy exploring and contributing to Aura!
-=======
-# aura
-Aura is a simple and elegant weather application built with React.js and powered by the OpenWeather API. Get real-time weather updates and forecasts with a clean and intuitive interface.
->>>>>>> 299adc22bfcee43adfc40168e90d6cc58690c3bb
+
