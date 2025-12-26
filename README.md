@@ -51,7 +51,7 @@ Follow these steps to set up the project in your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jenil-Desai/aura.git
+   git clone https://github.com/Darshit-Mehta-11/Aura.git
    ```
 2. Install dependencies:
    ```bash
@@ -94,7 +94,7 @@ Explore the unique features available in this application:
 
 We’d like to thank the following contributors and resources:
 
-- **[Apna College's Delta 3.0 Course](https://www.apnacollege.in/)** - Course resource.
+- **[Apna College's Delta 5.0 Course](https://www.apnacollege.in/)** - Course resource.
 - **[Open Weather Docs](https://openweathermap.org/)** - Documentation for Open Weather.
 - **[Material UI Docs](https://mui.com/)** - Documentation for Material UI.
 
